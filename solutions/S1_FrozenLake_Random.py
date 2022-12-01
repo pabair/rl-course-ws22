@@ -90,7 +90,6 @@ if r > 0:
 else:
     print("New policy failed!")
 
-exit(0)
 
 ###### Task 3 ######
 print(f"\n ### TASK 3 ### ")
